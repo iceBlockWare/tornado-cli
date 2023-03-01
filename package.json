@@ -11,7 +11,7 @@
   "dependencies": {
     "axios": "^0.19.2",
     "bignumber.js": "^9.0.0",
-    "circom": "0.0.35",
+    "circom": "0.5.46",
     "circomlib": "git+https://github.com/tornadocash/circomlib.git#3b492f9801573eebcfe1b6c584afe8a3beecf2b4",
     "commander": "^5.1.0",
     "dotenv": "^8.2.0",
